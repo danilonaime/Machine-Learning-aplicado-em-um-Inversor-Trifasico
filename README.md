@@ -11,8 +11,6 @@ O objetivo principal desta etapa do projeto é a exploração estatística e o t
 ## 📊 Sobre o Dataset
 O conjunto de dados utilizado foi disponibilizado pelo departamento **LEA (Power Electronics and Electrical Drives)** da **Universidade de Paderborn, Alemanha**. Ele fornece as informações necessárias para a construção do modelo para fins acadêmicos e de pesquisa.
 
-**Destaque da Análise Inicial:** Durante o tratamento bruto, foi constatado que o dataset não possui valores nulos ou faltantes (`NaN`), indicando um pré-tratamento de alta qualidade na origem dos dados.
-
 ## 🛠️ Tecnologias e Bibliotecas Utilizadas
 O projeto foi desenvolvido em **Python** (Jupyter Notebook), empregando as seguintes ferramentas e bibliotecas:
 * **Pandas**: Leitura, manipulação e análise dos dados.
