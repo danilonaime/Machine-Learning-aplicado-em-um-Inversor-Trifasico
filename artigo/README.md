@@ -1,1 +1,0 @@
-# Artigo do Projeto
